@@ -1,0 +1,17 @@
+# Unlimited Exchange - 中文
+unlimited_suffix,无限交易
+limit_suffix,每晚次数
+unlimited_tooltip,"开启后该交易每晚不限次数；关闭后由下方『每晚次数』滑块限制。"
+limit_tooltip,"每晚最多交易次数（1-20）。仅在该交易未开启无限交易时生效。"
+name_filter_barter,3份净水器=>新净水器
+name_module_barter,2份模组=>随机模组
+name_dream_dust_barter,2份梦尘=>随机合法商品
+name_commandKeycardBarter,指挥卡=>随机2张钥匙卡
+name_poison_barter,2份毒药=>电池
+name_bullet_barter,2份弹药=>随机食物
+name_smuggler_barter,走私者暗格升级
+name_crate_barter,钥匙卡=>物资箱
+name_seed_barter,5份种子=>电池
+name_improved_dream_dust_barter,4份梦尘=>随机医疗商品
+name_bm_rep_barter,拾荒者信物=>黑市声望
+name_immunivax_barter,2份奥克西莫=>免疫宁

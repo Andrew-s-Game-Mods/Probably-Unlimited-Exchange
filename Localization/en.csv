@@ -1,0 +1,17 @@
+# Unlimited Exchange - English
+unlimited_suffix,Unlimited
+limit_suffix,Per-night limit
+unlimited_tooltip,"When on, this trade has no per-night limit. When off, the Per-night limit slider below caps it."
+limit_tooltip,"Max accepts per night (1-20). Only used when Unlimited is off for this trade."
+name_filter_barter,3 Water Filter => New Water Filter
+name_module_barter,2 Module => Random Module
+name_dream_dust_barter,2 Dream Dust => Random Legal Goods
+name_commandKeycardBarter,Command Card => 2 Random Keycards
+name_poison_barter,2 Poison => Battery
+name_bullet_barter,2 Ammo => Random Food
+name_smuggler_barter,Smuggler Bay Upgrade
+name_crate_barter,Keycard => Crate
+name_seed_barter,5 Seeds => Battery
+name_improved_dream_dust_barter,4 Dream Dust => Random Medical Goods
+name_bm_rep_barter,Scavenger's Token => BM Reputation
+name_immunivax_barter,2 OxyMore => Immunivax
