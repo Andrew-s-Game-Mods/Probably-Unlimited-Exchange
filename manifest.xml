@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Manifest>
+  <ID>unlimited_exchange</ID>
+  <Name>Unlimited Exchange</Name>
+  <Author>Andrew Guo</Author>
+  <ModVersion>1.3</ModVersion>
+  <Description>解除地下交易所的次数限制，可按每种交易分别设置无限或每晚 1-20 次。/ Removes the Underground Exchange usage limit, with per-trade settings for unlimited or 1-20 trades per night.</Description>
+  <GameVersions />
+  <Prerequisites />
+  <!-- Every DLL the game must load, relative to this folder. Nothing else in the folder is loaded. -->
+  <Assemblies>
+    <Assembly>unlimited_exchange.dll</Assembly>
+  </Assemblies>
+  <!-- What your code does beyond the game's API: files, network, process, dynamic-code, native, reflection-external.
+       Most mods need none. The game scans your DLL when a player activates the mod; an undeclared capability
+       refuses the activation. Check with the console command: mod-scan unlimited_exchange   (see ModdingGuide.md) -->
+  <Capabilities />
+</Manifest>
