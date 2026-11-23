@@ -5,7 +5,9 @@
   <Author>Andrew Guo</Author>
   <ModVersion>1.0</ModVersion>
   <Description>解除地下交易所的次数限制，可按每种交易分别设置无限或每晚 1-20 次。/ Removes the Underground Exchange usage limit, with per-trade settings for unlimited or 1-20 trades per night.</Description>
-  <GameVersions />
+  <GameVersions>
+    <Version>1.0.0</Version>
+  </GameVersions>
   <Prerequisites />
   <!-- Every DLL the game must load, relative to this folder. Nothing else in the folder is loaded. -->
   <Assemblies>
