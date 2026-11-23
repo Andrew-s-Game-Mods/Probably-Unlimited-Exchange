@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Manifest>
   <ID>unlimited_exchange</ID>
-  <Name>Unlimited Exchange</Name>
+  <Name>地下交易所：可能是无限的·Probably Unlimited Exchange</Name>
   <Author>Andrew Guo</Author>
   <ModVersion>1.0</ModVersion>
   <Description>解除地下交易所的次数限制，可按每种交易分别设置无限或每晚 1-20 次。/ Removes the Underground Exchange usage limit, with per-trade settings for unlimited or 1-20 trades per night.</Description>
